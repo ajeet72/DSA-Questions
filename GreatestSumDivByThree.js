@@ -24,4 +24,4 @@ function maxSumDivThree(nums) {
     return sum - two
 }   
 
-console.log(maxSumDivThree([3, 6, 5, 1, 8])); // Output: 18
+console.log(maxSumDivThree([3, 6, 5, 1, 8]));
